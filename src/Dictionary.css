@@ -1,1 +1,28 @@
+.Dictionary {
+  font-family: "Jersey 20", sans-serif;
+  font-size: 21px;
+}
+.Dictionary h1 {
+  font-size: 30px;
+}
+form {
+  margin-bottom: 8px;
+}
 
+.Dictionary section {
+  border-bottom: 2px solid black;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.Dictionary input {
+  width: 75%;
+  padding-left: 10px;
+  text-align: left;
+  font-size: 25px;
+  border-radius: 6px;
+}
+
+.hints {
+  font-size: 20px;
+}
